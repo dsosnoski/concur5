@@ -1,9 +1,12 @@
 concur5
 ============
 
-This gives sample Scala and Java code for the
-[fifth article in my JVM Concurrency series](http://www.ibm.com/developerworks/library/j-jvmc5/index.html) on IBM
-developerWorks. The project uses a Maven build, so just do the usual `mvn clean install` to get
+The [fifth article in my JVM Concurrency series](http://www.ibm.com/developerworks/library/j-jvmc5/index.html) on IBM
+developerWorks, "Acting asynchronously with Akka", gives an introduction to Akka programming. It uses
+parallel examples in Scala, generic Java, and Java 8. The article text focuses mostly on the Scala code
+for demonstrating Akka features, but you can find the full code in this repository.
+
+The project uses a Maven build, so just do the usual `mvn clean install` to get
 everything to a working state. The code is three separate packages:
 
 1. `com.sosnoski.concur.article5scala`, within the *main/scala* tree.
