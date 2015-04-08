@@ -7,7 +7,7 @@ parallel examples in Scala, generic Java, and Java 8. The article text focuses m
 for demonstrating Akka features, but you can find the full code in this repository.
 
 The project uses a Maven build, so just do the usual `mvn clean install` to get
-everything to a working state. The code is three separate packages:
+everything to a working state. The code is in three separate packages:
 
 1. `com.sosnoski.concur.article5scala`, within the *main/scala* tree.
 2. `com.sosnoski.concur.article5java`, within the *main/java* tree.

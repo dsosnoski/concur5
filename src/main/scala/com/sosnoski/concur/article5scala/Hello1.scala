@@ -9,7 +9,6 @@ object Hello1 extends App {
   val system = ActorSystem("actor-demo-scala")
   val hello = system.actorOf(Props[Hello])
   hello ! "Bob"
-  println("Done sending")
   Thread sleep 1000
   system shutdown
   
