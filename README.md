@@ -16,8 +16,8 @@ the Scala demonstration code from the command line with
 
 1. `hello1` - Simple actor hello
 2. `hello2` - Stateful actor hello
-3. 'hello3' - Actor properties and interactions
-4. 'hello4' - Asking vs telling
+3. `hello3` - Actor properties and interactions
+4. `hello4` - Asking vs telling
 
 You can import the project into ScalaIDE with the standard Maven project import handling, and both Scala
 and Java versions can be executed from within the IDE.
