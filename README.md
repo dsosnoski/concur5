@@ -2,7 +2,7 @@ concur5
 ============
 
 The [fifth article in my JVM Concurrency series](http://www.ibm.com/developerworks/library/j-jvmc5/index.html) on IBM
-developerWorks, "Acting asynchronously with Akka", gives an introduction to Akka programming. It uses
+developerWorks, "Acting asynchronously with Akka", gives an introduction to Akka programming using
 parallel examples in Scala, generic Java, and Java 8. The article text focuses mostly on the Scala code
 for demonstrating Akka features, but you can find the full code in this repository.
 
